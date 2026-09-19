@@ -2,7 +2,7 @@
 2D-Spiel entwickelt mit Java und Greenfoot im Rahmen des Informatikunterrichts.
 
 
-# Schatzräuber – Java-Spiel
+# Schatzräuber (Java-Spiel)
 
 ## Projektbeschreibung
 
