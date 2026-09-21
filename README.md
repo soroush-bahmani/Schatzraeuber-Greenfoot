@@ -33,7 +33,6 @@ Durch das Projekt konnte ich erste praktische Erfahrungen in der **Softwareentwi
 ### Spielszene
 ![Screenshot 1](screenshot1.png)
 
-### Spielmechanik
 ![Screenshot 2](screenshot2.png)
 
 ## Projekt
