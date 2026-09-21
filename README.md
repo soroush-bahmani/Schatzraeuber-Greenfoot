@@ -38,3 +38,5 @@ Durch das Projekt konnte ich erste praktische Erfahrungen in der **Softwareentwi
 ## Projekt
 
 Der vollständige Quellcode und die Projektdateien sind in diesem Repository verfügbar.
+
+[Vollständiges Greenfoot-Projekt herunterladen](./Schatzraeuber_Soroush_Bahmani.zip)
